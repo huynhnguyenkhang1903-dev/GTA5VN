@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<SInteriorOrderData>
+  <startFrom value="2000" />
+  <filePathHash value="0" />
+  <proxies>
+    <Item>gabz_mrpd_milo_</Item>
+	<Item>shmann_justice_mlo</Item>
+	<Item>int_clawles_casino_milo_</Item>
+	<Item>nightclub_rockford_milo_</Item>
+	<!-- prison -->
+	<Item>int_dge_canteen_gta5rp</Item>
+	<Item>int_dge_common_room_cage_gta5rp</Item>
+	<Item>int_dge_detention_house_gta5rp</Item>
+	<Item>int_dge_gta5rp_reception</Item>
+	<Item>int_dge_meeting_room_gta5rp</Item>
+	<Item>int_dge_waiting_room_gta5rp</Item>
+	<Item>int_dge_working_gta5rp</Item>
+	<!-- emsc -->
+	<Item>int_shosp_milo_</Item>
+	<Item>cs4_occl_03</Item>
+	<!-- hallframe -->
+	<Item>cls_int_mp_slava_milo_</Item>
+	<Item>breze_benefactor_milo_</Item>
+	<Item>army_milo_</Item>
+	<Item>fluorine4305_fishshop_milo_</Item>
+	<!-- merry weather -->
+	<Item>ajaxon_barton_lsc_milo_</Item>
+	<Item>hei_ap1_04_interior_v_carmod_milo_</Item>
+	<!-- wnews -->
+	<Item>int_wnews_garag_milo_</Item>
+	<Item>int_wnews_milo_</Item>
+	<!-- gopostal -->
+	<Item>int_gta5rp_post_center_milo_</Item>
+	<Item>jail_milo_</Item>
+	<Item>cs6_04_canmod02_milo_</Item>
+	<Item>cs6_04_canmod06_milo_</Item>
+	<Item>cs6_04_canmod07_milo_</Item>
+	<Item>cs6_04_canmod08_milo_</Item>
+	<Item>cs6_04_canmod014_milo_</Item>
+	<Item>cs6_04_mainblock1_milo_</Item>
+	<Item>cs6_04_mainblock2_milo_</Item>
+	<Item>cs6_04_reception_milo_</Item>
+	<Item>slb2k11_jva_entrance_milo_</Item>
+	<Item>slb2k11_jva_office_milo_</Item>
+  </proxies>
+</SInteriorOrderData>

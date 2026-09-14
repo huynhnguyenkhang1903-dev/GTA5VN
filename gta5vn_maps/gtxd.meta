@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CMapParentTxds>
+	<txdRelationships>
+		<Item>
+			<parent>casino_txd1</parent>
+			<child>casino_txd</child>
+		</Item>
+	</txdRelationships>
+</CMapParentTxds>

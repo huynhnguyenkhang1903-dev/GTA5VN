@@ -1,0 +1,56 @@
+body{
+    box-sizing: border-box;
+    /* margin: auto; */
+    /* background-color: darkgreen; */
+}
+@font-face {
+    font-family: 'EAS_TITLE'; /*a name to be used later*/
+    src: url('fonts/BalooDa-Regular.ttf'); /*URL to font*/
+}
+
+.eas {
+
+    /* position: relative; */
+    position: fixed;
+    left: 32%;
+    top: 1%;
+    padding-left: 150px;
+    border-radius: 20px;
+    width: 30%;
+    font-family: 'EAS_TITLE';
+    font-weight: bold;
+    text-align: center;
+    font-size: 150%;
+    color: #fff;
+    border-top: 10px solid rgb(255, 251, 251);
+    border-right: 1px solid rgb(255, 251, 251);
+    border-bottom: 1px solid rgb(255, 251, 251);
+    border-left: 1px solid rgb(255, 251, 251);
+
+    /* border-style: dashed */
+
+/* box-shadow: 5px -5px 1px 5px rgb(255, 251, 251); */
+    /* animation: Light 4s linear infinite; */
+    /* background: rgb(164,0,6); */
+    background-image: url(bg.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.backgroundNews{
+  position: absolute;
+  left: 0%;
+  padding: 51px;
+  padding-right: 80px;
+
+}
+.logoReporter{
+    position: absolute;
+    width: 100px;
+    left: 2%;
+    top: 25px;
+    animation: flip 4s infinite;
+    /* padding: 21px;
+    background: blue; */
+
+}

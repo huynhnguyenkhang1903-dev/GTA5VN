@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SInteriorOrderData>
+  <startFrom value="5009" />
+    <filePathHash value="0" />
+  <proxies>
+  <Item>map4all_sh_milo_</Item>
+  <Item>map4all_ss_sheriff_milo</Item>
+  <Item>nui_lounge_int_placement</Item>
+<!-- prison - commend 
+  	<Item>int_dge_canteen_gta5rp</Item>
+	<Item>int_dge_common_room_cage_gta5rp</Item>
+	<Item>int_dge_detention_house_gta5rp</Item>
+	<Item>int_dge_gta5rp_reception</Item>
+	<Item>int_dge_meeting_room_gta5rp</Item>
+	<Item>int_dge_waiting_room_gta5rp</Item>
+	<Item>int_dge_working_gta5rp</Item>
+-->
+<!-- lspd -->	
+	<Item>slb2k11_vinewood_garage</Item>
+	<Item>slb2k11_vinewoodpd_lspd</Item>
+	<Item>slb2k11_vinewood_stairs</Item>
+	<Item>slb2k11_vinewood_floor_ug</Item>
+	
+<!--LSmedical-->
+    <Item>gta5rp_dge_hospital_milo_</Item>
+	
+	
+<!--carmeet sandy-->	
+	<Item>luky3d_carmeet_milo_</Item>
+	
+	
+  </proxies>
+</SInteriorOrderData>

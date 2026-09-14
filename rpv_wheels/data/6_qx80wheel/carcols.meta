@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVarGlobal>    
+  <Wheels>
+    <Item> <!-- VWT_SPORT -->
+    	    <Item>
+        <wheelName>qx80wh_01</wheelName>
+        <wheelVariation />
+        <modShopLabel>qx80wh_01</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>qx80wh_02</wheelName>
+        <wheelVariation />
+        <modShopLabel>qx80wh_02</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>qx80wh_03</wheelName>
+        <wheelVariation />
+        <modShopLabel>qx80wh_03</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+</Item>
+    <Item> <!-- VWT_MUSCLE -->
+    	    <Item>
+        <wheelName>qx80wh_01</wheelName>
+        <wheelVariation />
+        <modShopLabel>qx80wh_01</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>qx80wh_02</wheelName>
+        <wheelVariation />
+        <modShopLabel>qx80wh_02</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>qx80wh_03</wheelName>
+        <wheelVariation />
+        <modShopLabel>qx80wh_03</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+</Item>
+    <Item>  <!-- VWT_LOWRIDER -->
+	    <Item>
+        <wheelName>qx80wh_01</wheelName>
+        <wheelVariation />
+        <modShopLabel>qx80wh_01</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>qx80wh_02</wheelName>
+        <wheelVariation />
+        <modShopLabel>qx80wh_02</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>qx80wh_03</wheelName>
+        <wheelVariation />
+        <modShopLabel>qx80wh_03</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+</Item>
+    <Item> <!-- VWT_SUV -->
+    	    <Item>
+        <wheelName>qx80wh_01</wheelName>
+        <wheelVariation />
+        <modShopLabel>qx80wh_01</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>qx80wh_02</wheelName>
+        <wheelVariation />
+        <modShopLabel>qx80wh_02</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>qx80wh_03</wheelName>
+        <wheelVariation />
+        <modShopLabel>qx80wh_03</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+</Item>
+    <Item> <!-- VWT_OFFROAD -->
+    	    <Item>
+        <wheelName>qx80wh_01</wheelName>
+        <wheelVariation />
+        <modShopLabel>qx80wh_01</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>qx80wh_02</wheelName>
+        <wheelVariation />
+        <modShopLabel>qx80wh_02</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>qx80wh_03</wheelName>
+        <wheelVariation />
+        <modShopLabel>qx80wh_03</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+</Item>
+    <Item> <!-- VWT_TUNER -->
+    	    <Item>
+        <wheelName>qx80wh_01</wheelName>
+        <wheelVariation />
+        <modShopLabel>qx80wh_01</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>qx80wh_02</wheelName>
+        <wheelVariation />
+        <modShopLabel>qx80wh_02</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>qx80wh_03</wheelName>
+        <wheelVariation />
+        <modShopLabel>qx80wh_03</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+</Item>
+    <Item/> <!-- VWT_BIKE -->
+    <Item> <!-- VWT_HIEND -->
+  	    <Item>
+        <wheelName>qx80wh_01</wheelName>
+        <wheelVariation />
+        <modShopLabel>qx80wh_01</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>qx80wh_02</wheelName>
+        <wheelVariation />
+        <modShopLabel>qx80wh_02</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>qx80wh_03</wheelName>
+        <wheelVariation />
+        <modShopLabel>qx80wh_03</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+</Item>
+    <Item> <!-- VWT_SUPERMOD1 -->
+    	    <Item>
+        <wheelName>qx80wh_01</wheelName>
+        <wheelVariation />
+        <modShopLabel>qx80wh_01</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>qx80wh_02</wheelName>
+        <wheelVariation />
+        <modShopLabel>qx80wh_02</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>qx80wh_03</wheelName>
+        <wheelVariation />
+        <modShopLabel>qx80wh_03</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+</Item>
+    <Item> <!-- VWT_SUPERMOD2 -->
+    	    <Item>
+        <wheelName>qx80wh_01</wheelName>
+        <wheelVariation />
+        <modShopLabel>qx80wh_01</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>qx80wh_02</wheelName>
+        <wheelVariation />
+        <modShopLabel>qx80wh_02</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>qx80wh_03</wheelName>
+        <wheelVariation />
+        <modShopLabel>qx80wh_03</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+</Item>
+    <Item/>
+  </Wheels>
+</CVehicleModelInfoVarGlobal>

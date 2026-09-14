@@ -1,0 +1,4437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PedDecorationCollection>
+  <bRequiredForSync value="true" />
+  <presets>
+	<Item>
+      <uvPos x="0.000000" y="0.550000" />
+      <scale x="0.20000" y="0.200000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_000_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_000</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_000</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.000000" y="0.500000" />
+      <scale x="0.200000" y="0.200000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_000_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_000</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_000</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.000000" y="0.550000" />
+      <scale x="0.200000" y="0.200000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_018_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_018</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_018</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.000000" y="0.500000" />
+      <scale x="0.200000" y="0.200000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_018_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_018</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_018</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.000000" y="0.700000" />
+      <scale x="0.400000" y="0.400000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_001_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_001</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_001</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.00000" y="0.70000" />
+      <scale x="0.400000" y="0.400000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_001_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_001</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_001</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.000000" y="0.700000" />
+      <scale x="0.400000" y="0.400000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_010_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_010</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_010</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.00000" y="0.70000" />
+      <scale x="0.400000" y="0.400000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_010_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_010</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_010</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.50000" />
+      <scale x="0.50000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_019_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_019</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_019</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.50000" />
+      <scale x="0.5000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_019_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_019</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_019</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+<Item>
+      <uvPos x="0.30000" y="0.50000" />
+      <scale x="0.50000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_002_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_002</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_002</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.30000" y="0.50000" />
+      <scale x="0.50000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_002_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_002</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_002</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.90000" y="0.30000" />
+      <scale x="0.15000" y="0.15000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_003_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_003</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_003</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.90000" y="0.40000" />
+      <scale x="0.11000" y="0.11000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_003_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_003</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_003</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.2300" y="0.45000" />
+      <scale x="0.33000" y="0.34000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_004_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_004</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_004</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.23000" y="0.50000" />
+      <scale x="0.35000" y="0.35000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_004_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_004</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_004</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.73000" y="0.40000" />
+      <scale x="0.250000" y="0.25000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_005_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_005</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_005</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.750000" y="0.470000" />
+      <scale x="0.190000" y="0.140000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_005_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_005</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_005</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.230000" y="0.500000" />
+      <scale x="0.280000" y="0.280000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_006_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_006</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_006</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.230000" y="0.500000" />
+      <scale x="0.270000" y="0.210000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_006_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_006</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_006</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.230000" y="0.400000" />
+      <scale x="0.350000" y="0.350000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_007_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_007</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_007</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.230000" y="0.480000" />
+      <scale x="0.320000" y="0.320000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_007_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_007</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_007</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.730000" y="0.600000" />
+      <scale x="0.200000" y="0.200000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_008_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_008</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_008</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.730000" y="0.600000" />
+      <scale x="0.180000" y="0.180000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_008_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_008</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_008</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.720000" y="0.600000" />
+      <scale x="0.190000" y="0.190000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_009_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_009</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_009</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.720000" y="0.600000" />
+      <scale x="0.140000" y="0.140000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_009_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_009</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_009</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.00000" y="0.580000" />
+      <scale x="0.30000" y="0.300000" />
+      <rotation value="120.000000" />
+      <nameHash>mp_gta5rptattoo_tat_020_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_020</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_020</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.000000" y="0.580000" />
+      <scale x="0.280000" y="0.280000" />
+      <rotation value="120.000000" />
+      <nameHash>mp_gta5rptattoo_tat_020_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_020</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_020</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.230000" y="0.63000" />
+      <scale x="0.180000" y="0.180000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_011_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_011</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_011</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.230000" y="0.630000" />
+      <scale x="0.180000" y="0.180000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_011_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_011</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_011</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.720000" y="0.500000" />
+      <scale x="0.220000" y="0.220000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_012_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_012</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_012</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.720000" y="0.51000" />
+      <scale x="0.140000" y="0.140000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_012_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_012</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_012</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.230000" y="0.450000" />
+      <scale x="0.300000" y="0.300000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_013_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_013</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_013</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.230000" y="0.53000" />
+      <scale x="0.280000" y="0.200000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_013_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_013</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_013</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.230000" y="0.580000" />
+      <scale x="0.180000" y="0.180000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_014_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_014</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_014</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.230000" y="0.570000" />
+      <scale x="0.150000" y="0.150000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_014_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_014</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_014</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.500000" y="0.58000" />
+      <scale x="0.180000" y="0.280000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_015_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_015</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_015</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.500000" y="0.600000" />
+      <scale x="0.160000" y="0.280000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_015_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_015</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_015</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.500000" y="0.500000" />
+      <scale x="0.150000" y="0.150000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_016_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_016</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_016</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.500000" y="0.400000" />
+      <scale x="0.150000" y="0.150000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_016_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_016</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_016</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.600000" y="0.300000" />
+      <scale x="0.150000" y="0.150000" />
+      <rotation value="15.000000" />
+      <nameHash>mp_gta5rptattoo_tat_017_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_017</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_017</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.600000" y="0.370000" />
+      <scale x="0.130000" y="0.100000" />
+      <rotation value="15.000000" />
+      <nameHash>mp_gta5rptattoo_tat_017_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_017</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_017</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <Item>
+      <uvPos x="-0.500000" y="0.375000" />
+      <scale x="0.150000" y="0.150000" />
+      <rotation value="9.360000" />
+      <nameHash>mp_gta5rptattoo_tat_021_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_021</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_021</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.500000" y="0.375000" />
+      <scale x="0.150000" y="0.150000" />
+      <rotation value="9.360000" />
+      <nameHash>mp_gta5rptattoo_tat_021_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_021</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_021</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.500000" y="0.5000" />
+      <scale x="0.220000" y="0.150000" />
+      <rotation value="9.360000" />
+      <nameHash>mp_gta5rptattoo_tat_022_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_022</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_022</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.500000" y="0.5000" />
+      <scale x="0.220000" y="0.150000" />
+      <rotation value="9.360000" />
+      <nameHash>mp_gta5rptattoo_tat_022_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_022</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_022</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <Item>
+      <uvPos x="-0.800000" y="0.380000" />
+      <scale x="0.300000" y="0.200000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_023_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_023</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_023</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.800000" y="0.380000" />
+      <scale x="0.300000" y="0.200000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_023_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_023</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_023</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.550000" y="0.700000" />
+      <scale x="0.200000" y="0.200000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_024_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_024</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_024</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.550000" y="0.700000" />
+      <scale x="0.200000" y="0.200000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_024_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_024</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_024</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.550000" y="0.80000" />
+      <scale x="0.200000" y="0.200000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_025_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_025</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_025</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.550000" y="0.80000" />
+      <scale x="0.200000" y="0.200000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_025_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_025</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_025</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.650000" y="0.360000" />
+      <scale x="0.200000" y="0.150000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_026_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_026</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_026</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.650000" y="0.360000" />
+      <scale x="0.200000" y="0.150000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_026_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_026</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_026</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.460000" y="0.70000" />
+      <scale x="0.150000" y="0.200000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_027_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_027</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_027</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.460000" y="0.70000" />
+      <scale x="0.150000" y="0.200000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_027_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_027</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_027</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.460000" y="0.750000" />
+      <scale x="0.150000" y="0.200000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_028_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_028</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_028</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.460000" y="0.750000" />
+      <scale x="0.150000" y="0.200000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_028_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_028</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_028</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.500000" y="0.400000" />
+      <scale x="0.200000" y="0.180000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_029_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_029</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_029</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.500000" y="0.400000" />
+      <scale x="0.200000" y="0.180000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_029_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_029</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_029</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.250000" y="0.500000" />
+      <scale x="0.500000" y="0.350000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_030_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_030</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_030</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.250000" y="0.570000" />
+      <scale x="0.500000" y="0.350000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_030_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_030</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_030</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <Item>
+      <uvPos x="0.800000" y="0.63000" />
+      <scale x="0.200000" y="0.150000" />
+      <rotation value="-35.639999" />
+      <nameHash>mp_gta5rptattoo_tat_031_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_031</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_031</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.800000" y="0.63000" />
+      <scale x="0.200000" y="0.150000" />
+      <rotation value="-35.639999" />
+      <nameHash>mp_gta5rptattoo_tat_031_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_031</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_031</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.630000" y="0.650000" />
+      <scale x="0.100000" y="0.100000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_032_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_032</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_032</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.630000" y="0.650000" />
+      <scale x="0.100000" y="0.100000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_032_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_032</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_032</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.480000" y="0.400000" />
+      <scale x="0.200000" y="0.160000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_033_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_033</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_033</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.480000" y="0.400000" />
+      <scale x="0.200000" y="0.160000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_033_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_033</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_033</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <Item>
+      <uvPos x="-0.270000" y="0.450000" />
+      <scale x="0.300000" y="0.250000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_034_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_034</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_034</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.270000" y="0.450000" />
+      <scale x="0.300000" y="0.250000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_034_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_034</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_034</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.82000" y="0.65000" />
+      <scale x="0.33000" y="0.33000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_039_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_039</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_039</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.82000" y="0.65000" />
+      <scale x="0.33000" y="0.33000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_040_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_040</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_040</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.82000" y="0.65000" />
+      <scale x="0.33000" y="0.33000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_041_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_041</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_041</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.82000" y="0.65000" />
+      <scale x="0.33000" y="0.33000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_042_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_042</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_042</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.07000" y="0.65000" />
+      <scale x="0.33000" y="0.33000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_043_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_043</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_043</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.07000" y="0.65000" />
+      <scale x="0.33000" y="0.33000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_044_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_044</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_044</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.07000" y="0.65000" />
+      <scale x="0.33000" y="0.33000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_045_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_045</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_045</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.07000" y="0.65000" />
+      <scale x="0.33000" y="0.33000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_046_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_046</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_046</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.250000" y="0.58000" />
+      <scale x="0.400000" y="0.420000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_047_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_047</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_047</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.250000" y="0.58000" />
+      <scale x="0.400000" y="0.420000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_048_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_048</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_048</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.250000" y="0.58000" />
+      <scale x="0.400000" y="0.420000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_049_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_049</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_049</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.250000" y="0.58000" />
+      <scale x="0.400000" y="0.420000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_050_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_050</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_050</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.59000" />
+      <scale x="0.38000" y="0.43000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_051_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_051</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_051</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.59000" />
+      <scale x="0.38000" y="0.43000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_052_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_052</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_052</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.59000" />
+      <scale x="0.38000" y="0.43000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_053_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_053</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_053</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.59000" />
+      <scale x="0.38000" y="0.43000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_054_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_054</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_054</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.85000" y="0.60000" />
+      <scale x="0.50000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_055_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_055</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_055</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.85000" y="0.60000" />
+      <scale x="0.50000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_056_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_056</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_056</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.85000" y="0.60000" />
+      <scale x="0.50000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_057_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_057</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_057</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.85000" y="0.60000" />
+      <scale x="0.50000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_058_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_058</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_058</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>	
+	<Item>
+      <uvPos x="0.72000" y="0.60000" />
+      <scale x="0.50000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_059_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_059</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_059</txtHash>
+      <zone>ZONE_RIGHT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.72000" y="0.60000" />
+      <scale x="0.50000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_060_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_060</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_060</txtHash>
+      <zone>ZONE_RIGHT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.72000" y="0.60000" />
+      <scale x="0.50000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_061_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_061</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_061</txtHash>
+      <zone>ZONE_RIGHT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.72000" y="0.60000" />
+      <scale x="0.50000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_062_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_062</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_062</txtHash>
+      <zone>ZONE_RIGHT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.82000" y="0.60000" />
+      <scale x="0.40000" y="0.40000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_063_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_063</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_063</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.82000" y="0.60000" />
+      <scale x="0.40000" y="0.40000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_064_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_064</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_064</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.82000" y="0.60000" />
+      <scale x="0.40000" y="0.40000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_065_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_065</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_065</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.82000" y="0.60000" />
+      <scale x="0.40000" y="0.40000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_066_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_066</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_066</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.26000" y="0.60000" />
+      <scale x="0.40000" y="0.40000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_067_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_067</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_067</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.26000" y="0.60000" />
+      <scale x="0.40000" y="0.40000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_068_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_068</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_068</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.26000" y="0.60000" />
+      <scale x="0.40000" y="0.40000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_069_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_069</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_069</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.26000" y="0.60000" />
+      <scale x="0.40000" y="0.40000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_070_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_070</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_070</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.260000" y="0.55000" />
+      <scale x="0.400000" y="0.400000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_071_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_071</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_071</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.260000" y="0.55000" />
+      <scale x="0.400000" y="0.400000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_072_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_072</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_072</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.260000" y="0.55000" />
+      <scale x="0.400000" y="0.400000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_073_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_073</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_073</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.260000" y="0.55000" />
+      <scale x="0.400000" y="0.400000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_074_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_074</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_074</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.55000" />
+      <scale x="0.30000" y="0.30000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_075_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_075</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_075</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.55000" />
+      <scale x="0.30000" y="0.30000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_076_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_076</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_076</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.55000" />
+      <scale x="0.30000" y="0.30000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_077_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_077</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_077</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.55000" />
+      <scale x="0.30000" y="0.30000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_078_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_078</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_078</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.80000" y="0.75000" />
+      <scale x="0.60000" y="0.60000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_079_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_079</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_079</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.80000" y="0.75000" />
+      <scale x="0.60000" y="0.60000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_080_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_080</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_080</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.80000" y="0.75000" />
+      <scale x="0.60000" y="0.60000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_081_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_081</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_081</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.80000" y="0.75000" />
+      <scale x="0.60000" y="0.60000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_082_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_082</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_082</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>	
+	<Item>
+      <uvPos x="0.95000" y="0.75000" />
+      <scale x="0.60000" y="0.60000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_083_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_083</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_083</txtHash>
+      <zone>ZONE_RIGHT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.95000" y="0.75000" />
+      <scale x="0.60000" y="0.60000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_084_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_084</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_084</txtHash>
+      <zone>ZONE_RIGHT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.95000" y="0.75000" />
+      <scale x="0.60000" y="0.60000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_085_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_085</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_085</txtHash>
+      <zone>ZONE_RIGHT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.95000" y="0.75000" />
+      <scale x="0.60000" y="0.60000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_086_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_086</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_086</txtHash>
+      <zone>ZONE_RIGHT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.27000" y="0.5100" />
+      <scale x="0.35000" y="0.35000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_087_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_087</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_087</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.26000" y="0.52000" />
+      <scale x="0.35000" y="0.25000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_087_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_087</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_087</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.27000" y="0.5100" />
+      <scale x="0.35000" y="0.35000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_088_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_088</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_088</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.26000" y="0.57000" />
+      <scale x="0.35000" y="0.25000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_088_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_088</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_088</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.27000" y="0.5100" />
+      <scale x="0.35000" y="0.35000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_089_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_089</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_089</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.26000" y="0.59000" />
+      <scale x="0.35000" y="0.25000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_089_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_089</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_089</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.27000" y="0.5100" />
+      <scale x="0.35000" y="0.35000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_090_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_090</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_090</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.26000" y="0.51000" />
+      <scale x="0.35000" y="0.25000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_090_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_090</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_090</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.27000" y="0.5100" />
+      <scale x="0.35000" y="0.35000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_091_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_091</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_091</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.26000" y="0.56000" />
+      <scale x="0.35000" y="0.25000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_091_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_091</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_091</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.27000" y="0.5100" />
+      <scale x="0.35000" y="0.35000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_092_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_092</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_092</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.26000" y="0.53000" />
+      <scale x="0.35000" y="0.25000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_092_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_092</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_092</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.27000" y="0.5100" />
+      <scale x="0.35000" y="0.35000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_093_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_093</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_093</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.26000" y="0.55000" />
+      <scale x="0.35000" y="0.25000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_093_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_093</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_093</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.27000" y="0.5100" />
+      <scale x="0.35000" y="0.35000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_094_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_094</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_094</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.26000" y="0.55000" />
+      <scale x="0.35000" y="0.25000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_094_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_094</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_094</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.27000" y="0.5100" />
+      <scale x="0.35000" y="0.35000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_095_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_095</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_095</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.26000" y="0.53000" />
+      <scale x="0.35000" y="0.25000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_095_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_095</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_095</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.27000" y="0.5100" />
+      <scale x="0.35000" y="0.35000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_096_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_096</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_096</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.26000" y="0.54000" />
+      <scale x="0.35000" y="0.25000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_096_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_096</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_096</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.27000" y="0.5100" />
+      <scale x="0.35000" y="0.35000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_097_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_097</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_097</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.26000" y="0.53000" />
+      <scale x="0.35000" y="0.25000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_097_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_097</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_097</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.27000" y="0.5100" />
+      <scale x="0.35000" y="0.35000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_098_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_098</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_098</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.26000" y="0.53000" />
+      <scale x="0.35000" y="0.22000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_098_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_098</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_098</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.27000" y="0.5100" />
+      <scale x="0.35000" y="0.35000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_099_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_099</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_099</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.26000" y="0.54000" />
+      <scale x="0.35000" y="0.22000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_099_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_099</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_099</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.27000" y="0.5100" />
+      <scale x="0.35000" y="0.35000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_100_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_100</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_100</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.26000" y="0.55000" />
+      <scale x="0.35000" y="0.22000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_100_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_100</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_100</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.27000" y="0.5100" />
+      <scale x="0.35000" y="0.35000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_101_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_101</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_101</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.26000" y="0.56000" />
+      <scale x="0.35000" y="0.25000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_101_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_101</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_101</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.27000" y="0.5100" />
+      <scale x="0.35000" y="0.35000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_102_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_102</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_102</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.26000" y="0.57000" />
+      <scale x="0.35000" y="0.25000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_102_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_102</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_102</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.27000" y="0.5100" />
+      <scale x="0.70000" y="0.70000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_103_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_103</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_103</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.27000" y="0.54000" />
+      <scale x="0.70000" y="0.70000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_103_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_103</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_103</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.27000" y="0.5100" />
+      <scale x="0.70000" y="0.70000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_104_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_104</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_104</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.27000" y="0.54000" />
+      <scale x="0.70000" y="0.70000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_104_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_104</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_104</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.27000" y="0.5100" />
+      <scale x="0.70000" y="0.70000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_105_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_105</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_105</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.27000" y="0.54000" />
+      <scale x="0.70000" y="0.70000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_105_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_105</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_105</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.27000" y="0.5100" />
+      <scale x="0.35000" y="0.35000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_107_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_107</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_107</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.26000" y="0.53000" />
+      <scale x="0.35000" y="0.25000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_107_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_107</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_107</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.00000" y="0.85000" />
+      <scale x="1.00000" y="1.00000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_108_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_108</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_108</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.00000" y="0.85000" />
+      <scale x="1.00000" y="1.00000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_108_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_108</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_108</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.00000" y="0.85000" />
+      <scale x="1.00000" y="1.00000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_109_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_109</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_109</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.00000" y="0.85000" />
+      <scale x="1.00000" y="1.00000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_109_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_109</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_109</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.00000" y="0.85000" />
+      <scale x="1.00000" y="1.00000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_110_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_110</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_110</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.00000" y="0.85000" />
+      <scale x="1.00000" y="1.00000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_110_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_110</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_110</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.00000" y="0.85000" />
+      <scale x="1.00000" y="1.00000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_111_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_111</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_111</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.00000" y="0.85000" />
+      <scale x="1.00000" y="1.00000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_111_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_111</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_111</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.00000" y="0.85000" />
+      <scale x="1.00000" y="1.00000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_112_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_112</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_112</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.00000" y="0.85000" />
+      <scale x="1.00000" y="1.00000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_112_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_112</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_112</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.00000" y="0.85000" />
+      <scale x="1.00000" y="1.00000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_113_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_113</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_113</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.00000" y="0.85000" />
+      <scale x="1.00000" y="1.00000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_113_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_113</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_113</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.00000" y="0.85000" />
+      <scale x="1.00000" y="1.00000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_114_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_114</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_114</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.00000" y="0.85000" />
+      <scale x="1.00000" y="1.00000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_114_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_114</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_114</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.00000" y="0.85000" />
+      <scale x="1.00000" y="1.00000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_115_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_115</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_115</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.00000" y="0.85000" />
+      <scale x="1.00000" y="1.00000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_115_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_115</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_115</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.00000" y="0.85000" />
+      <scale x="1.00000" y="1.00000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_116_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_116</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_116</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.00000" y="0.85000" />
+      <scale x="1.00000" y="1.00000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_116_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_116</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_116</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.00000" y="0.85000" />
+      <scale x="1.00000" y="1.00000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_117_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_117</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_117</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.00000" y="0.85000" />
+      <scale x="1.00000" y="1.00000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_117_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_117</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_117</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.00000" y="0.85000" />
+      <scale x="1.00000" y="1.00000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_118_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_118</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_118</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.00000" y="0.85000" />
+      <scale x="1.00000" y="1.00000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_118_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_118</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_118</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.00000" y="0.85000" />
+      <scale x="1.00000" y="1.00000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_119_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_119</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_119</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.00000" y="0.85000" />
+      <scale x="1.00000" y="1.00000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_119_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_119</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_119</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.50000" />
+      <scale x="0.50000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_121_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_121</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_121</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.50000" />
+      <scale x="0.5000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_121_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_121</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_121</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.50000" />
+      <scale x="0.50000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_122_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_122</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_122</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.50000" />
+      <scale x="0.5000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_122_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_122</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_122</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.50000" />
+      <scale x="0.50000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_123_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_123</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_123</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.50000" />
+      <scale x="0.5000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_123_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_123</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_123</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.50000" />
+      <scale x="0.50000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_124_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_124</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_124</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.50000" />
+      <scale x="0.5000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_124_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_124</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_124</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.50000" />
+      <scale x="0.50000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_125_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_125</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_125</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.50000" />
+      <scale x="0.5000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_125_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_125</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_125</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.50000" />
+      <scale x="0.50000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_126_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_126</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_126</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.50000" />
+      <scale x="0.5000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_126_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_126</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_126</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.50000" />
+      <scale x="0.50000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_127_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_127</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_127</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.50000" />
+      <scale x="0.5000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_127_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_127</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_127</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.30000" y="0.50000" />
+      <scale x="0.50000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_129_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_129</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_129</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.30000" y="0.50000" />
+      <scale x="0.50000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_129_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_129</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_129</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.30000" y="0.50000" />
+      <scale x="0.50000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_130_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_130</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_130</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.30000" y="0.50000" />
+      <scale x="0.50000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_130_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_130</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_130</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.30000" y="0.50000" />
+      <scale x="0.50000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_131_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_131</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_131</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.30000" y="0.50000" />
+      <scale x="0.50000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_131_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_131</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_131</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.30000" y="0.50000" />
+      <scale x="0.50000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_132_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_132</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_132</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.30000" y="0.50000" />
+      <scale x="0.50000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_132_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_132</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_132</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.30000" y="0.50000" />
+      <scale x="0.50000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_133_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_133</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_133</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.30000" y="0.50000" />
+      <scale x="0.50000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_133_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_133</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_133</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.30000" y="0.50000" />
+      <scale x="0.50000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_134_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_134</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_134</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.30000" y="0.50000" />
+      <scale x="0.50000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_134_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_134</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_134</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.30000" y="0.50000" />
+      <scale x="0.50000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_135_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_135</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_135</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.30000" y="0.50000" />
+      <scale x="0.50000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_135_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_135</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_135</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.50000" />
+      <scale x="0.30000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_136_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_136</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_136</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.50000" />
+      <scale x="0.30000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_136_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_136</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_136</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.50000" />
+      <scale x="0.30000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_137_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_137</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_137</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.55000" />
+      <scale x="0.30000" y="0.52000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_137_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_137</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_137</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.50000" />
+      <scale x="0.30000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_138_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_138</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_138</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.55000" />
+      <scale x="0.30000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_138_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_138</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_138</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.50000" />
+      <scale x="0.30000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_139_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_139</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_139</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.55000" />
+      <scale x="0.30000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_139_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_139</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_139</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.50000" />
+      <scale x="0.30000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_140_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_140</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_140</txtHash>
+      <zone>ZONE_RIGHT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.50000" />
+      <scale x="0.30000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_140_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_140</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_140</txtHash>
+      <zone>ZONE_RIGHT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.50000" />
+      <scale x="0.30000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_141_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_141</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_141</txtHash>
+      <zone>ZONE_RIGHT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.55000" />
+      <scale x="0.30000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_141_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_141</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_141</txtHash>
+      <zone>ZONE_RIGHT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.50000" />
+      <scale x="0.30000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_142_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_142</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_142</txtHash>
+      <zone>ZONE_RIGHT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.55000" />
+      <scale x="0.30000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_142_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_142</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_142</txtHash>
+      <zone>ZONE_RIGHT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.23000" y="0.5100" />
+      <scale x="0.35000" y="0.35000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_143_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_143</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_143</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.23000" y="0.55000" />
+      <scale x="0.35000" y="0.30000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_143_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_143</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_143</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.23000" y="0.5100" />
+      <scale x="0.35000" y="0.35000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_144_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_144</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_144</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.23000" y="0.55000" />
+      <scale x="0.35000" y="0.30000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_144_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_144</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_144</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.23000" y="0.5100" />
+      <scale x="0.35000" y="0.35000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_145_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_145</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_145</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.23000" y="0.55000" />
+      <scale x="0.35000" y="0.30000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_145_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_145</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_145</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.23000" y="0.5100" />
+      <scale x="0.35000" y="0.35000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_146_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_146</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_146</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.23000" y="0.55000" />
+      <scale x="0.35000" y="0.30000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_146_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_146</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_146</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.23000" y="0.5100" />
+      <scale x="0.35000" y="0.35000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_147_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_147</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_147</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.23000" y="0.55000" />
+      <scale x="0.35000" y="0.30000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_147_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_147</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_147</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.23000" y="0.5100" />
+      <scale x="0.35000" y="0.35000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_148_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_148</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_148</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.23000" y="0.55000" />
+      <scale x="0.35000" y="0.30000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_148_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_148</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_148</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.23000" y="0.5100" />
+      <scale x="0.35000" y="0.35000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_149_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_149</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_149</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.23000" y="0.55000" />
+      <scale x="0.35000" y="0.30000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_149_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_149</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_149</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.23000" y="0.5100" />
+      <scale x="0.35000" y="0.35000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_150_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_150</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_150</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.23000" y="0.57000" />
+      <scale x="0.35000" y="0.30000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_150_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_150</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_150</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.23000" y="0.5100" />
+      <scale x="0.35000" y="0.35000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_151_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_151</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_151</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.23000" y="0.57000" />
+      <scale x="0.35000" y="0.30000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_151_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_151</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_151</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.23000" y="0.5100" />
+      <scale x="0.35000" y="0.35000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_152_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_152</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_152</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.23000" y="0.55000" />
+      <scale x="0.35000" y="0.30000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_152_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_152</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_152</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.23000" y="0.5100" />
+      <scale x="0.35000" y="0.35000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_153_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_153</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_153</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.23000" y="0.55000" />
+      <scale x="0.35000" y="0.30000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_153_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_153</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_153</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+		<Item>
+      <uvPos x="0.23000" y="0.5100" />
+      <scale x="0.35000" y="0.35000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_154_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_154</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_154</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.23000" y="0.57000" />
+      <scale x="0.35000" y="0.30000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_154_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_154</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_154</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+		<Item>
+      <uvPos x="0.23000" y="0.5100" />
+      <scale x="0.35000" y="0.35000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_155_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_155</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_155</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.23000" y="0.55000" />
+      <scale x="0.35000" y="0.30000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_155_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_155</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_155</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.23000" y="0.5100" />
+      <scale x="0.35000" y="0.35000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_156_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_156</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_156</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.23000" y="0.55000" />
+      <scale x="0.35000" y="0.30000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_156_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_156</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_156</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.23000" y="0.5100" />
+      <scale x="0.35000" y="0.35000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_157_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_157</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_157</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.23000" y="0.55000" />
+      <scale x="0.35000" y="0.30000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_157_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_157</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_157</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.23000" y="0.5100" />
+      <scale x="0.35000" y="0.35000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_158_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_158</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_158</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.23000" y="0.55000" />
+      <scale x="0.35000" y="0.30000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_158_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_158</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_158</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.23000" y="0.5100" />
+      <scale x="0.35000" y="0.35000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_159_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_159</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_159</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.23000" y="0.55000" />
+      <scale x="0.35000" y="0.30000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_159_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_159</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_159</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.23000" y="0.5100" />
+      <scale x="0.35000" y="0.35000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_160_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_160</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_160</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.23000" y="0.55000" />
+      <scale x="0.35000" y="0.30000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_160_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_160</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_160</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.23000" y="0.5100" />
+      <scale x="0.35000" y="0.35000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_161_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_161</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_161</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.23000" y="0.55000" />
+      <scale x="0.35000" y="0.30000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_161_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_161</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_161</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.43000" />
+      <scale x="0.30000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_162_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_162</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_162</txtHash>
+      <zone>ZONE_RIGHT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.45000" />
+      <scale x="0.30000" y="0.40000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_162_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_162</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_162</txtHash>
+      <zone>ZONE_RIGHT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.50000" />
+      <scale x="0.30000" y="0.40000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_163_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_163</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_163</txtHash>
+      <zone>ZONE_RIGHT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.45000" />
+      <scale x="0.30000" y="0.40000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_163_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_163</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_163</txtHash>
+      <zone>ZONE_RIGHT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.43000" />
+      <scale x="0.30000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_164_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_164</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_164</txtHash>
+      <zone>ZONE_RIGHT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.45000" />
+      <scale x="0.30000" y="0.40000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_164_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_164</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_164</txtHash>
+      <zone>ZONE_RIGHT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.43000" />
+      <scale x="0.30000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_165_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_165</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_165</txtHash>
+      <zone>ZONE_RIGHT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.45000" />
+      <scale x="0.30000" y="0.40000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_165_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_165</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_165</txtHash>
+      <zone>ZONE_RIGHT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.43000" />
+      <scale x="0.30000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_166_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_166</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_166</txtHash>
+      <zone>ZONE_RIGHT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.45000" />
+      <scale x="0.30000" y="0.40000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_166_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_166</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_166</txtHash>
+      <zone>ZONE_RIGHT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.43000" />
+      <scale x="0.30000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_167_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_167</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_167</txtHash>
+      <zone>ZONE_RIGHT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.45000" />
+      <scale x="0.30000" y="0.40000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_167_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_167</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_167</txtHash>
+      <zone>ZONE_RIGHT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.43000" />
+      <scale x="0.30000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_168_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_168</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_168</txtHash>
+      <zone>ZONE_RIGHT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.45000" />
+      <scale x="0.30000" y="0.40000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_168_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_168</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_168</txtHash>
+      <zone>ZONE_RIGHT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.50000" />
+      <scale x="0.30000" y="0.40000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_169_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_169</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_169</txtHash>
+      <zone>ZONE_RIGHT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.45000" />
+      <scale x="0.30000" y="0.40000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_169_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_169</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_169</txtHash>
+      <zone>ZONE_RIGHT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.43000" />
+      <scale x="0.30000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_170_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_170</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_170</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.45000" />
+      <scale x="0.30000" y="0.40000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_170_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_170</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_170</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.50000" />
+      <scale x="0.30000" y="0.40000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_171_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_171</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_171</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.45000" />
+      <scale x="0.30000" y="0.40000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_171_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_171</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_171</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.43000" />
+      <scale x="0.30000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_172_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_172</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_172</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.45000" />
+      <scale x="0.30000" y="0.40000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_172_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_172</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_172</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.43000" />
+      <scale x="0.30000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_173_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_173</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_173</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.45000" />
+      <scale x="0.30000" y="0.40000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_173_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_173</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_173</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.43000" />
+      <scale x="0.30000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_174_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_174</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_174</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.45000" />
+      <scale x="0.30000" y="0.40000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_174_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_174</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_174</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.43000" />
+      <scale x="0.30000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_175_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_175</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_175</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.45000" />
+      <scale x="0.30000" y="0.40000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_175_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_175</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_175</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.43000" />
+      <scale x="0.30000" y="0.50000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_176_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_176</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_176</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.45000" />
+      <scale x="0.30000" y="0.40000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_176_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_176</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_176</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.50000" />
+      <scale x="0.30000" y="0.40000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_177_M</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_177</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_177</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.25000" y="0.45000" />
+      <scale x="0.30000" y="0.40000" />
+      <rotation value="0.000000" />
+      <nameHash>mp_gta5rptattoo_tat_177_F</nameHash>
+      <txdHash>mp_gta5rptattoo_tat_177</txdHash>
+      <txtHash>mp_gta5rptattoo_tat_177</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+  </presets>
+  <nameHash>gta5rptattoo_overlays</nameHash>
+  <medalLocations content="vector2_array">
+    0.140000	0.070000	
+    0.370000	0.070000	
+    0.600000	0.070000	
+    0.835000	0.070000	
+    0.140000	0.150000	
+    0.370000	0.150000	
+    0.600000	0.150000	
+    0.835000	0.150000	
+    0.140000	0.230000	
+    0.370000	0.230000	
+    0.600000	0.230000	
+    0.835000	0.230000	
+    0.100000	0.700000	
+    0.300000	0.700000	
+    0.500000	0.700000	
+    0.700000	0.700000	
+  </medalLocations>
+  <medalScale x="0.240000" y="0.100000" />
+</PedDecorationCollection>

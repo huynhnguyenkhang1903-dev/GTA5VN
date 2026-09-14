@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVarGlobal>    
+  <Wheels>
+  <Item> <!-- VWT_SPORT -->
+	  <Item>
+        <wheelName>wheel_techart_daytona_2</wheelName>
+        <wheelVariation />
+        <modShopLabel>techart_daytona_2</modShopLabel>
+        <rimRadius value="0.26"/>
+        <rear value="false"/>
+      </Item>
+  <Item> <!-- VWT_SUPERMOD2 -->
+	</Item>  
+  </Wheels>
+  
+</CVehicleModelInfoVarGlobal>

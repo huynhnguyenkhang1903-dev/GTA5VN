@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVarGlobal>    
+  <Wheels>
+    <Item> <!-- VWT_SPORT -->
+	  <Item>
+        <wheelName>wheel_urus1</wheelName>
+        <wheelVariation />
+        <modShopLabel>WHEEL_URUS1</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_urus2</wheelName>
+        <wheelVariation />
+        <modShopLabel>WHEEL_URUS2</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_urus3</wheelName>
+        <wheelVariation />
+        <modShopLabel>WHEEL_URUS3</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_urus4</wheelName>
+        <wheelVariation />
+        <modShopLabel>WHEEL_URUS4</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+    </Item>
+    <Item/> <!-- VWT_MUSCLE -->
+    <Item/> <!-- VWT_LOWRIDER -->
+  <Item> <!-- VWT_SUV -->
+	  <Item>
+        <wheelName>wheel_urus1</wheelName>
+        <wheelVariation />
+        <modShopLabel>WHEEL_URUS1</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_urus2</wheelName>
+        <wheelVariation />
+        <modShopLabel>WHEEL_URUS2</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_urus3</wheelName>
+        <wheelVariation />
+        <modShopLabel>WHEEL_URUS3</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_urus4</wheelName>
+        <wheelVariation />
+        <modShopLabel>WHEEL_URUS4</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+    </Item>
+  <Item/> <!-- VWT_OFFROAD -->
+  <Item/> <!-- VWT_TUNER -->
+  <Item/> <!-- VWT_BIKE -->
+  <Item/> <!-- VWT_HIEND -->
+  <Item/> <!-- VWT_SUPERMOD1 -->
+  <Item/> <!-- VWT_SUPERMOD2 -->
+  <Item/>
+  </Wheels>
+
+</CVehicleModelInfoVarGlobal>

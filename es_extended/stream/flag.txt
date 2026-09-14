@@ -1,0 +1,24 @@
+<Item type="CBaseArchetypeDef">
+      <lodDist value="120.00000000"/>
+      <flags value="570556416"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.21000000" y="-3.26617300" z="-0.97934600"/>
+      <bbMax x="0.20000000" y="0.40087200" z="1.07934500"/>
+      <bsCentre x="-0.00500000" y="-1.43265000" z="0.04999954"/>
+      <bsRadius value="2.11267200"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>Prop_Flag_Canada</name>
+      <textureDictionary>prop_flags</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_FRAGMENT</assetType>
+      <assetName>Prop_Flag_Canada</assetName>
+      <extensions>
+        <Item type="CExtensionDefAudioCollisionSettings">
+          <name>Prop_Flag_Canada</name>
+          <offsetPosition x="0.00000000" y="0.00000000" z="0.00000000"/>
+          <settings>MOD_PROP_FLAG_CANADA</settings>
+        </Item>
+      </extensions>
+    </Item>

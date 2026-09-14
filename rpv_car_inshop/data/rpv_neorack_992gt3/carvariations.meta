@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData> 
+
+
+
+
+
+
+
+
+
+
+    <Item>
+      <modelName>rpv_neorack_992gt3</modelName>
+      <colors>
+        <Item>
+		 <Item>
+          <indices content="char_array">  <!-- Gasoline Green / Gold -->
+            112
+            0
+            0
+            27
+          </indices>
+        </Item>
+          <indices content="char_array">  <!-- Black / Black / Red -->
+            0
+            0
+            0
+            27
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities />
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item>
+
+
+
+
+
+
+
+
+
+
+  </variationData>
+</CVehicleModelInfoVariation>

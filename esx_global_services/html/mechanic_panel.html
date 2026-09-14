@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="help.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <style>
+        .family-member-list {margin-top:30px;}
+        .menu-text.s-18 {display:inline-block;}
+        .menu-text.user-name {width:25%;}
+		.menu-text.rank-row {width: 20%;}
+		.menu-text.info-row {width: 30%;}
+        .group-info {width: 50%; overflow: hidden; margin-left: 10px;display:inline-block;}
+        /* .ml-auto.menu-buttons {display:inline-block;text-align:right;} */
+        .playerFamilyMainMenu-memberItem {display: flex;align-items: center;margin-top: 15px;padding-bottom: 10px;border-bottom: 1px solid rgba(255, 255, 255, 0.15);}
+        .menu-header-tab-panel.ml-auto {margin-left:60px;}
+        .menu-header-tab-panel.ml-auto button {width:140px;}
+        .menu-button-close {margin-left:20px;position:absolute;right:17px;}
+        .menu-btn:hover {opacity: 0.8;}
+        table {border-spacing: 0;}
+        table thead th {color:var(--c-gold);text-align: left;font-family: 'Helvetica_Neue';border-bottom: 1px solid rgba(255, 255, 255, 0.15);height:40px;}
+        table tbody td {color:#fff;font-family: 'Helvetica_Neue';border-bottom: 1px solid rgba(255, 255, 255, 0.15);height:40px;}
+    </style>
+</head>
+<body>
+    <div class="content-block center">
+        <div id="modal_service_list" class="menu-block" style="height: 580px; width: 960px;display:none;">
+            <div class="menu-header">
+                <img class="menu-header-ico" src="images/houseMenu-ico.png">
+                <div id="family_name" class="menu-header-text" style="font-size: 20px;">Dịch vụ nhà nước <a href="javascript:;" onclick="ChangeToService()">[Gọi dịch vụ]</a></div>
+                <button class="ml-20 menu-button-close btn_close"></button>
+            </div>
+
+            <div class="d-flex column menu-content bg-image" >
+                <div class="menu-tab-block open mt-10" tab-id="members" style="flex: 1;">
+                    <div class="d-flex column menu-scroll" style="height: 470px;">
+                        <table id="service_list_table">
+                            <thead>
+                                <tr>
+                                    <th style="width:100px;">Dịch vụ</th>
+                                    <th style="width:180px;">Người yêu cầu</th>
+									<th style="width:100px;">SĐT</th>
+                                    <th>Vị trí</th>
+                                    <th style="width:120px;">Khoảng cách</th>
+                                    <th style="width:170px;">Hành động</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Taxi</td>
+                                    <td>Leopold - 123456</td>
+									<td>7457</td>
+                                    <td>ABC DEF</td>
+                                    <td>7,252 m</td>
+                                    <td>
+                                        <label>Đã nhận</label>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Sửa xe</td>
+                                    <td>ABC - 123456</td>
+									<td>7457</td>
+                                    <td>AASDASD</td>
+                                    <td>7,252 m</td>
+                                    <td>
+                                        <button class="menu-btn green slim-long">Nhận</button>
+                                        <button class="menu-btn green slim-long">Nhận</button>
+										<button class="menu-btn green slim-long">Nhận</button>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="modal_select_service" class="menu-modal" style="z-index: 99;">
+            <div class="menu-header">   
+                <div class="menu-header-text">Chọn dịch vụ</div>
+            </div>
+            <div class="menu-content">
+                <div class="menu-text mt-10 mb-10">
+                    <div id="call_service">
+                        <p>Chọn dịch vụ bạn cần hỗ trợ:</p>
+                        <br/>
+                        <div style="text-align: center;">
+                            <div data-service-name="taxi" class="menu-btn blue shadow" style="width:18%;">Taxi</div>
+                            <div data-service-name="mechanic" class="menu-btn green shadow" style="width:18%;">Sửa xe</div>
+							<div data-service-name="police" class="menu-btn red shadow" style="width: 30%;margin-top: 5px;">Cảnh sát</div>
+                        </div>
+                    </div>
+                    <div id="call_service_detail" style="display:none;">
+                        <p id="waiting_text">Đang đợi xác nhận hỗ trợ ...</p>
+                        <p id="cancel_info">Bạn chỉ có thể hủy khi không có ai nhận.</p>
+                        <br/>
+                        <div style="text-align: center;">
+                            <div id="btn_cancel_service" class="menu-btn red shadow" style="width:18%;display:none;">Hủy</div>
+                        </div>
+                    </div>
+                </div>
+                <br>
+                <div class="menu-buttons text-center mt-20" style="text-align:center;">
+                    
+                    <button class="btn_close menu-btn btn-no">Ẩn</button>
+                </div>
+            </div>
+        </div>
+        <div id="alert_modal" class="menu-modal close" style="z-index: 99;">
+            <div class="menu-header">   
+                <div class="menu-header-text">Thông báo</div>
+            </div>
+            <div class="menu-content">
+                <div class="menu-text mt-10 mb-10">
+                    Nội dung thông báo
+                </div>
+                <br>
+                <div class="menu-buttons text-center mt-20">
+                    <button class="menu-btn btn-yes red shadow">Đồng ý</button>
+                    <button class="menu-btn btn-no">Hủy</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="custom_input"></div>
+    <script type="text/javascript">
+        var _isSelectedService = false;
+        var _selectedName = "";
+		
+		function ChangeToService() {
+            // thay the cho $('#modal_select_service').show();
+			showModalSelectService();
+
+            $('#modal_service_list').hide();
+		}
+
+        function showModalSelectService() {
+            if(_isSelectedService) {
+                $('#call_service').hide();
+                $('#call_service_detail').show();
+            } else {
+                $('#call_service').show();
+                $('#call_service_detail').hide();
+            }
+            $('#modal_select_service').show();
+        }
+
+		window.addEventListener('message', function(event){
+			switch(event.data.type) {
+				case 'show_select_panel':
+                    showModalSelectService();
+				break;
+				
+				case 'hide_nui':
+                    $('#modal_select_service').hide();
+                    $('#modal_service_list').hide();
+                    if(event.data.is_cancel != undefined) {
+                        if(event.data.is_cancel == "1") {
+                            _isSelectedService = false;
+                            _selectedName = "";
+							$('#waiting_text').html('Đang đợi nhân viên hỗ trợ...');
+                        }
+                    }
+				break;
+				
+				case 'show_list_panel':
+                    mapServiceList(event.data.cur_sid, event.data.service_list);
+                    // map service list
+                    $('#modal_service_list').show();
+				break;
+				
+				case 'update_waiting_status':
+					if (event.data.worker == null)
+						$('#waiting_text').html('Đang đợi nhân viên hỗ trợ...');
+					else
+						$('#waiting_text').html('<span style="color:green">' + event.data.worker + '</span> đang hỗ trợ bạn');
+				break;
+
+                case 'get_distance_from_map':
+                    showBillDialog(event.data.distance);
+                    break;
+				
+				case 'select_service':
+					selectedService(event.data.name, false)
+				break;
+				
+			}
+		});
+        //////////////////////
+        // Close
+        $(document).on("click", ".btn_close", function(){
+            $.post('http://esx_global_services/close', JSON.stringify({}));
+        });
+        //////////////////////
+        //  Call service
+        $(document).on("click", "[data-service-name]", function() {
+            var _name = $(this).attr('data-service-name');
+            selectedService(_name, true)
+        });
+        //////////////////////
+        //  Cancel service
+        $(document).on("click", "#btn_cancel_service", function() {
+            $.post('http://esx_global_services/cancelService', JSON.stringify({
+                name: _selectedName
+            }));
+            _isSelectedService = false;
+            _selectedName = "";
+        });
+        
+        $(document).on("click", "[data-accept-service-name]", function() {
+            var _serviceName = $(this).attr('data-accept-service-name');
+            var _playerId = $(this).attr('data-service-id');
+            $.post('http://esx_global_services/takeService', JSON.stringify({
+                service_name: _serviceName,
+                player_id: _playerId
+            }));
+        });
+		
+		$(document).on("click", "[data-done-service-name]", function() {
+            var _serviceName = $(this).attr('data-done-service-name');
+            var _playerId = $(this).attr('data-service-id');
+            $.post('http://esx_global_services/completedStaffService', JSON.stringify({
+                service_name: _serviceName,
+                player_id: _playerId
+            }));
+        });
+		
+		$(document).on("click", "[data-cancel-service-name]", function() {
+            var _serviceName = $(this).attr('data-cancel-service-name');
+            var _playerId = $(this).attr('data-service-id');
+            $.post('http://esx_global_services/cancelStaffService', JSON.stringify({
+                service_name: _serviceName,
+                player_id: _playerId
+            }));
+        });
+		
+		$(document).on("click", "[data-delete-service-name]", function() {
+            var _serviceName = $(this).attr('data-delete-service-name');
+            var _playerId = $(this).attr('data-service-id');
+            $.post('http://esx_global_services/deleteStaffService', JSON.stringify({
+                service_name: _serviceName,
+                player_id: _playerId
+            }));
+        });
+
+		function selectedService(_name, isSync) {
+			_isSelectedService = true;
+            _selectedName = _name;
+            $('.btn_close').hide();
+
+			if(isSync) {
+				$.post('http://esx_global_services/selectService', JSON.stringify({
+					name: _name
+				}));
+			}
+            // Show current detail
+            $('#call_service').hide();
+            $('#call_service_detail').show();
+            // hide cancel button 3s
+            $('#btn_cancel_service').hide();
+            $('#cancel_info').text("Bạn có thể hủy sau 3s");
+            setTimeout(() => {
+                $('#cancel_info').text("Bạn có thể hủy sau 2s");
+                setTimeout(() => {
+                    $('#cancel_info').text("Bạn có thể hủy sau 1s");
+                    setTimeout(() => {
+                        $('#cancel_info').text("");
+                        $('#btn_cancel_service').show();   
+                        $('.btn_close').show();     
+                    }, 1000);
+                }, 1000);
+            }, 1000);
+		}
+        //////////////////////
+        //  Mapping service list
+        function mapServiceList(csid, service_list) {
+            // console.log(service_list);
+            if(service_list.length > 0) {
+                var _html = "";
+                for(var i = 0; i < service_list.length; i++) {
+                    //console.log(service_list[i]);
+                    var _name = "";
+					switch(service_list[i].service_name) {
+						case 'mechanic':
+						_name = "<span style='color:#0033ff;'>Sửa xe</span>";
+						break;
+						case 'taxi':
+						_name = "<span style='color:#ccc908;'>Taxi</span>";
+						break;
+						case 'police':
+						_name = "<span style='color:#cc0822;'>Cảnh sát</span>";
+						break;
+						case 'ems':
+						_name = "<span style='color:#d107f0;'>Cấp cứu</span>";
+						break;
+						default:
+						_name = "Unknown";
+						break;
+					}
+                    //
+                    var _button = "";
+					var _hasDelete = true;
+                    if(service_list[i].worker == null) {
+                        _button = `<button data-accept-service-name="${service_list[i].service_name}" data-service-id="${service_list[i].source}" class="menu-btn green slim-long">Nhận</button>`;
+                    } else {
+						if (service_list[i].worker.sid == csid) {
+							_button = `<button data-done-service-name="${service_list[i].service_name}" data-service-id="${service_list[i].source}" class="menu-btn green slim-long">Xong</button> <button data-cancel-service-name="${service_list[i].service_name}" data-service-id="${service_list[i].source}" class="menu-btn yellow slim-long">Bỏ</button>`;
+						} else {
+							_hasDelete = false;
+							_button = `<small><span style="color:green">${service_list[i].worker.name}</span> đã nhận</small>`;
+						}
+                    }
+					
+					if (_hasDelete) {
+						_button += ` <button data-delete-service-name="${service_list[i].service_name}" data-service-id="${service_list[i].source}" class="menu-btn red slim-long">Hủy</button>`;
+					}
+					
+                    _html += `<tr>
+                                <td>${_name}</td>
+                                <td>${service_list[i].name}</td>
+								<td>${service_list[i].phone}</td>
+                                <td>${service_list[i].address}</td>
+                                <td>${formatMoney(service_list[i].distance, 1)} m</td>
+                                <td>
+                                    ${_button}
+                                </td>
+                            </tr>`;
+                }
+                $('#service_list_table tbody').html(_html);
+            } else {
+                $('#service_list_table tbody').html(`<tr><td colspan="6">Chưa có yêu cầu dịch vụ nào!</td></tr>`);
+            }
+        }
+        //////////////////////
+        //  format
+        function formatMoney(amount, decimalCount = 0, decimal = ".", thousands = ",") {
+            try {
+                decimalCount = Math.abs(decimalCount);
+                decimalCount = isNaN(decimalCount) ? 2 : decimalCount;
+
+                const negativeSign = amount < 0 ? "-" : "";
+
+                let i = parseInt(amount = Math.abs(Number(amount) || 0).toFixed(decimalCount)).toString();
+                let j = (i.length > 3) ? i.length % 3 : 0;
+
+                return negativeSign + (j ? i.substr(0, j) + thousands : '') + i.substr(j).replace(/(\d{3})(?=\d)/g, "$1" + thousands) + (decimalCount ? decimal + Math.abs(amount - i).toFixed(decimalCount).slice(2) : "");
+            } catch (e) {
+                console.log(e)
+            }
+        }
+    </script>
+</body>
+</html>

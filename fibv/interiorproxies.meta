@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SInteriorOrderData>
+  <startFrom value="3000" />
+  <proxies>
+	<Item>hei_ch3_04_long_0</Item>
+	<Item>hei_ch3_04_strm_1</Item>
+	<Item>hei_ch3_04_strm_2</Item>
+	<Item>KPP_FIB</Item>
+	<Item>ch3_occl_01</Item>
+	<Item>ch3_occl_02</Item>
+	<Item>qnx_fib_milo_</Item>
+	<Item>qnx_fib2_milo_</Item>
+  </proxies>
+</SInteriorOrderData>

@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVarGlobal>    
+  <Wheels>
+    <Item> <!-- VWT_SPORT --> 
+  <Item>
+        <wheelName>wheel_mansory_cs5_01</wheelName>
+        <wheelVariation />
+        <modShopLabel>Mansory CS.5 (1)</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+  <Item>
+        <wheelName>wheel_mansory_cs5_02</wheelName>
+        <wheelVariation />
+        <modShopLabel>Mansory CS.5 (2)</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+  <Item>
+        <wheelName>wheel_mansory_cs11_01</wheelName>
+        <wheelVariation />
+        <modShopLabel>Mansory CS.11 (1)</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+  <Item>
+        <wheelName>wheel_mansory_cs11_02</wheelName>
+        <wheelVariation />
+        <modShopLabel>Mansory CS.11 (2)</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+  <Item>
+        <wheelName>wheel_mansory_cs11_03</wheelName>
+        <wheelVariation />
+        <modShopLabel>Mansory CS.11 (3)</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+  <Item>
+        <wheelName>wheel_mansory_cv7_01</wheelName>
+        <wheelVariation />
+        <modShopLabel>Mansory CV.7</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+  <Item>
+        <wheelName>wheel_mansory_n80_01</wheelName>
+        <wheelVariation />
+        <modShopLabel>Mansory N.80</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+  <Item>
+        <wheelName>wheel_mansory_ts5_01</wheelName>
+        <wheelVariation />
+        <modShopLabel>Mansory TS.5</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+  <Item>
+        <wheelName>wheel_mansory_v6_01</wheelName>
+        <wheelVariation />
+        <modShopLabel>Mansory V.6 (1)</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+  <Item>
+        <wheelName>wheel_mansory_v6_02</wheelName>
+        <wheelVariation />
+        <modShopLabel>Mansory V.6 (2)</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+  <Item>
+        <wheelName>wheel_mansory_y8_01</wheelName>
+        <wheelVariation />
+        <modShopLabel>Mansory Y.8 (1)</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+  <Item>
+        <wheelName>wheel_mansory_y8_02</wheelName>
+        <wheelVariation />
+        <modShopLabel>Mansory Y.8 (2)</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+  <Item>
+        <wheelName>wheel_mansory_yn5_01</wheelName>
+        <wheelVariation />
+        <modShopLabel>Mansory YN.5</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	</Item> 
+    <Item/> <!-- VWT_MUSCLE -->
+    <Item/> <!-- VWT_LOWRIDER -->
+    <Item> <!-- VWT_SUV -->
+  <Item>
+        <wheelName>wheel_mansory_cs5_01</wheelName>
+        <wheelVariation />
+        <modShopLabel>Mansory CS.5 (1)</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+  <Item>
+        <wheelName>wheel_mansory_cs5_02</wheelName>
+        <wheelVariation />
+        <modShopLabel>Mansory CS.5 (2)</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+  <Item>
+        <wheelName>wheel_mansory_cs11_01</wheelName>
+        <wheelVariation />
+        <modShopLabel>Mansory CS.11 (1)</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+  <Item>
+        <wheelName>wheel_mansory_cs11_02</wheelName>
+        <wheelVariation />
+        <modShopLabel>Mansory CS.11 (2)</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+  <Item>
+        <wheelName>wheel_mansory_cs11_03</wheelName>
+        <wheelVariation />
+        <modShopLabel>Mansory CS.11 (3)</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+  <Item>
+        <wheelName>wheel_mansory_cv7_01</wheelName>
+        <wheelVariation />
+        <modShopLabel>Mansory CV.7</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+  <Item>
+        <wheelName>wheel_mansory_n80_01</wheelName>
+        <wheelVariation />
+        <modShopLabel>Mansory N.80</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+  <Item>
+        <wheelName>wheel_mansory_ts5_01</wheelName>
+        <wheelVariation />
+        <modShopLabel>Mansory TS.5</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+  <Item>
+        <wheelName>wheel_mansory_v6_01</wheelName>
+        <wheelVariation />
+        <modShopLabel>Mansory V.6 (1)</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+  <Item>
+        <wheelName>wheel_mansory_v6_02</wheelName>
+        <wheelVariation />
+        <modShopLabel>Mansory V.6 (2)</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+  <Item>
+        <wheelName>wheel_mansory_y8_01</wheelName>
+        <wheelVariation />
+        <modShopLabel>Mansory Y.8 (1)</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+  <Item>
+        <wheelName>wheel_mansory_y8_02</wheelName>
+        <wheelVariation />
+        <modShopLabel>Mansory Y.8 (2)</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+  <Item>
+        <wheelName>wheel_mansory_yn5_01</wheelName>
+        <wheelVariation />
+        <modShopLabel>Mansory YN.5</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	</Item> 
+    <Item/> <!-- VWT_OFFROAD -->
+    <Item/> <!-- VWT_TUNER -->
+    <Item/> <!-- VWT_BIKE -->
+    <Item> <!-- VWT_HIEND -->
+  <Item>
+        <wheelName>wheel_mansory_cs5_01</wheelName>
+        <wheelVariation />
+        <modShopLabel>Mansory CS.5 (1)</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+  <Item>
+        <wheelName>wheel_mansory_cs5_02</wheelName>
+        <wheelVariation />
+        <modShopLabel>Mansory CS.5 (2)</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+  <Item>
+        <wheelName>wheel_mansory_cs11_01</wheelName>
+        <wheelVariation />
+        <modShopLabel>Mansory CS.11 (1)</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+  <Item>
+        <wheelName>wheel_mansory_cs11_02</wheelName>
+        <wheelVariation />
+        <modShopLabel>Mansory CS.11 (2)</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+  <Item>
+        <wheelName>wheel_mansory_cs11_03</wheelName>
+        <wheelVariation />
+        <modShopLabel>Mansory CS.11 (3)</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+  <Item>
+        <wheelName>wheel_mansory_cv7_01</wheelName>
+        <wheelVariation />
+        <modShopLabel>Mansory CV.7</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+  <Item>
+        <wheelName>wheel_mansory_n80_01</wheelName>
+        <wheelVariation />
+        <modShopLabel>Mansory N.80</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+  <Item>
+        <wheelName>wheel_mansory_ts5_01</wheelName>
+        <wheelVariation />
+        <modShopLabel>Mansory TS.5</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+  <Item>
+        <wheelName>wheel_mansory_v6_01</wheelName>
+        <wheelVariation />
+        <modShopLabel>Mansory V.6 (1)</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+  <Item>
+        <wheelName>wheel_mansory_v6_02</wheelName>
+        <wheelVariation />
+        <modShopLabel>Mansory V.6 (2)</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+  <Item>
+        <wheelName>wheel_mansory_y8_01</wheelName>
+        <wheelVariation />
+        <modShopLabel>Mansory Y.8 (1)</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+  <Item>
+        <wheelName>wheel_mansory_y8_02</wheelName>
+        <wheelVariation />
+        <modShopLabel>Mansory Y.8 (2)</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+  <Item>
+        <wheelName>wheel_mansory_yn5_01</wheelName>
+        <wheelVariation />
+        <modShopLabel>Mansory YN.5</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	</Item> 
+    <Item/> <!-- VWT_SUPERMOD1 -->
+    <Item/> <!-- VWT_SUPERMOD2 -->
+    <Item/>
+  </Wheels>
+</CVehicleModelInfoVarGlobal>

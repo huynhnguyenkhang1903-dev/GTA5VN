@@ -1,0 +1,22 @@
+﻿# 3D Models & Heavy Game Stream Assets
+*.ytd
+*.yft
+*.ydd
+*.ydr
+*.ycd
+*.ybn
+*.ypt
+*.dds
+*.rpf
+
+# Archives
+*.rar
+*.zip
+*.7z
+*.tar
+*.gz
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store

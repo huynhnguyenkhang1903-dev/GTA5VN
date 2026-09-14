@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<SInteriorOrderData>
+  <startFrom value="2100" />
+  <filePathHash value="0" />
+  <proxies>
+    <Item>int_mafc_milo_</Item>
+	<Item>ug_mansion_02_milo_</Item>
+	<Item>mansion_mlo</Item>
+	<Item>int_italy2_milo_</Item>
+	<Item>malibu_mansion_mlo</Item>
+	<Item>brofx_mansion06_mlo</Item>
+	<Item>brofx_villa05_mlo</Item>
+	<Item>brofx_mansion07_mlo</Item>
+	<Item>lks_hotel</Item>
+	<Item>gabz_pinkcage_motel_1_1_milo_</Item>
+	<Item>gabz_pinkcage_motel_1_2_milo_</Item>
+	<Item>gabz_pinkcage_motel_1_3_milo_</Item>
+	<Item>gabz_pinkcage_motel_1_4_milo_</Item>
+	<Item>gabz_pinkcage_motel_1_5_milo_</Item>
+	<Item>gabz_pinkcage_motel_1_6_milo_</Item>
+	<Item>gabz_pinkcage_motel_1_7_milo_</Item>
+	<Item>gabz_pinkcage_motel_1_8_milo_</Item>
+	<Item>gabz_pinkcage_motel_1_9_milo_</Item>
+	<Item>gabz_pinkcage_motel_1_10_milo_</Item>
+	<Item>gabz_pinkcage_motel_1_11_milo_</Item>
+	<Item>gabz_pinkcage_motel_1_12_milo_</Item>
+	<Item>gabz_pinkcage_motel_1_14_milo_</Item>
+	<Item>gabz_pinkcage_motel_1_15_milo_</Item>
+	<Item>motel_paletto_1</Item>
+	<Item>motel_paletto_2</Item>
+	<Item>motel_paletto_3</Item>
+	<Item>motel_paletto_4</Item>
+	<Item>motel_paletto_5</Item>
+	<Item>motel_paletto_6</Item>
+	<Item>motel_paletto_7</Item>
+	<Item>motel_paletto_8</Item>
+	<Item>motel_paletto_9</Item>
+	<Item>motel_paletto_10</Item>
+	<Item>ult-yachtclub2_milo_</Item>
+	<Item>ult-yachtclub3_milo_</Item>
+	<Item>ult-yachtclub_milo_</Item>
+  </proxies>
+</SInteriorOrderData>
