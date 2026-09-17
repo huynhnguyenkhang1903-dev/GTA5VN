@@ -1,4 +1,4 @@
-﻿# 3D Models & Heavy Game Stream Assets
+# 3D Models & Heavy Game Stream Assets
 *.ytd
 *.yft
 *.ydd
@@ -20,3 +20,7 @@
 Thumbs.db
 Desktop.ini
 .DS_Store
+
+# Backups
+*.bak
+*.bak.*

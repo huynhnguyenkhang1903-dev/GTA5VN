@@ -26,8 +26,7 @@
             <Item value="false" />
           </liveries>
         </Item>
-      </colors>
-	<Item>
+        <Item>
           <indices content="char_array">
             112
             28
@@ -47,8 +46,7 @@
             <Item value="false" />
           </liveries>
         </Item>
-      </colors>
-	<Item>
+        <Item>
           <indices content="char_array">
             88
             28
@@ -68,8 +66,7 @@
             <Item value="false" />
           </liveries>
         </Item>
-      </colors>
-	<Item>
+        <Item>
           <indices content="char_array">
             28
             70
