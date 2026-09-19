@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GTA5VN Speedometer</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;700;800&family=Montserrat:wght@500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div id="speedoContainer" class="speedo-container" style="display: none;">
+    <!-- KHUNG ĐỒNG HỒ TRÒN PHONG CÁCH SPORT GTA5VN -->
+    <div class="speedo-gauge">
+      <svg class="gauge-svg" viewBox="0 0 220 220">
+        <defs>
+          <!-- Gradient cho vòng tua RPM -->
+          <linearGradient id="rpmGrad" x1="0%" y1="100%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#00f2fe" />
+            <stop offset="50%" stop-color="#38bdf8" />
+            <stop offset="78%" stop-color="#f59e0b" />
+            <stop offset="90%" stop-color="#ef4444" />
+          </linearGradient>
+
+          <!-- Gradient cho vòng tốc độ -->
+          <linearGradient id="speedGrad" x1="0%" y1="100%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#0284c7" />
+            <stop offset="100%" stop-color="#38bdf8" />
+          </linearGradient>
+
+          <!-- Hiệu ứng phát sáng Neon -->
+          <filter id="neonGlow" x="-20%" y="-20%" width="140%" height="140%">
+            <feGaussianBlur stdDeviation="3" result="blur" />
+            <feMerge>
+              <feMergeNode in="blur" />
+              <feMergeNode in="SourceGraphic" />
+            </feMerge>
+          </filter>
+        </defs>
+
+        <!-- Vòng nền phụ (Track) -->
+        <circle class="gauge-track track-rpm" cx="110" cy="110" r="92" />
+        <circle class="gauge-track track-speed" cx="110" cy="110" r="80" />
+
+        <!-- Vạch tiến trình vòng tua RPM (Vòng ngoài) -->
+        <circle id="rpmBar" class="gauge-bar bar-rpm" cx="110" cy="110" r="92" stroke="url(#rpmGrad)" />
+
+        <!-- Vạch tiến trình tốc độ (Vòng trong) -->
+        <circle id="speedBar" class="gauge-bar bar-speed" cx="110" cy="110" r="80" stroke="url(#speedGrad)" filter="url(#neonGlow)" />
+      </svg>
+
+      <!-- NỘI DUNG TRUNG TÂM -->
+      <div class="gauge-center">
+        <!-- Đèn báo xi-nhan phía trên -->
+        <div class="indicators-row">
+          <div id="iconLeftTurn" class="indicator-icon left-arrow">◀</div>
+          <div id="gearBadge" class="gear-badge">1</div>
+          <div id="iconRightTurn" class="indicator-icon right-arrow">▶</div>
+        </div>
+
+        <!-- Tốc độ điện tử lớn -->
+        <div class="speed-readout">
+          <span id="speedNum" class="speed-val">000</span>
+          <span id="speedUnit" class="speed-unit">KM/H</span>
+        </div>
+
+        <!-- Mức nhiên liệu (Xăng) -->
+        <div class="fuel-row">
+          <svg class="fuel-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M3 22V5c0-1.1.9-2 2-2h6c1.1 0 2 .9 2 2v17"/>
+            <path d="M13 10h4c1.1 0 2 .9 2 2v7c0 .6-.4 1-1 1s-1-.4-1-1v-4c0-.6-.4-1-1-1h-3"/>
+            <path d="M5 8h6"/>
+            <path d="M3 22h10"/>
+          </svg>
+          <div class="fuel-bar-wrap">
+            <div id="fuelBarFill" class="fuel-bar-fill" style="width: 100%;"></div>
+          </div>
+          <span id="fuelPercent" class="fuel-text">100%</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- CỤM ĐÈN TÍN HIỆU (ICON BAR) -->
+    <div class="status-cluster">
+      <!-- Dây an toàn -->
+      <div id="iconSeatbelt" class="status-icon icon-seatbelt" title="Dây an toàn (Phím B)">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M10 3h4l2 9-6 9-6-9z"/>
+          <circle cx="12" cy="7" r="2"/>
+        </svg>
+      </div>
+
+      <!-- Đèn pha / cốt -->
+      <div id="iconLights" class="status-icon icon-lights" title="Đèn xe">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M12 4v4m0 8v4m-8-8h4m8 0h4m-11.3-5.7l2.8 2.8m5.7 5.7l2.8 2.8m-11.3 0l2.8-2.8m5.7-5.7l2.8-2.8"/>
+          <circle cx="12" cy="12" r="4"/>
+        </svg>
+      </div>
+
+      <!-- Phanh tay -->
+      <div id="iconHandbrake" class="status-icon icon-handbrake" title="Phanh tay">
+        <span class="handbrake-p">(P)</span>
+      </div>
+
+      <!-- Check Engine -->
+      <div id="iconEngine" class="status-icon icon-engine" title="Cảnh báo động cơ">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <rect x="5" y="8" width="14" height="10" rx="2"/>
+          <path d="M2 11h3m14 0h3m-10-6v3m6-3v3m-3 13v2m-6-2v2"/>
+        </svg>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

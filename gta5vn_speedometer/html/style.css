@@ -1,0 +1,324 @@
+/* ============================================================
+   GTA5VN SPEEDOMETER - SPORT LUXURY CAR HUD STYLE
+   ============================================================ */
+
+:root {
+  --primary-cyan: #00f2fe;
+  --neon-blue: #38bdf8;
+  --neon-green: #10b981;
+  --neon-yellow: #f59e0b;
+  --neon-red: #ef4444;
+  --bg-dark: rgba(10, 15, 29, 0.75);
+  --border-color: rgba(255, 255, 255, 0.1);
+
+  --font-speed: 'Chakra Petch', 'Montserrat', sans-serif;
+  --font-text: 'Montserrat', sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  user-select: none;
+}
+
+body {
+  background: transparent;
+  overflow: hidden;
+  height: 100vh;
+  width: 100vw;
+  pointer-events: none; /* Chuột xuyên qua để không cản trở thao tác game */
+}
+
+/* KHUNG TỔNG THỂ ĐẶT Ở GÓC DƯỚI BÊN PHẢI */
+.speedo-container {
+  position: fixed;
+  bottom: 24px;
+  right: 28px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  z-index: 9999;
+  animation: hudFadeIn 0.3s ease-out;
+}
+
+@keyframes hudFadeIn {
+  from { opacity: 0; transform: scale(0.92) translateY(15px); }
+  to { opacity: 1; transform: scale(1) translateY(0); }
+}
+
+/* ĐỒNG HỒ TRÒN GAUGE */
+.speedo-gauge {
+  position: relative;
+  width: 210px;
+  height: 210px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(15, 23, 42, 0.75) 0%, rgba(5, 10, 20, 0.9) 70%, rgba(2, 6, 14, 0.95) 100%);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.6), inset 0 0 20px rgba(0, 0, 0, 0.8), 0 0 15px rgba(56, 189, 248, 0.08);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.gauge-svg {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  transform: rotate(135deg); /* Bắt đầu vòng cung từ góc dưới bên trái */
+}
+
+.gauge-track {
+  fill: none;
+  stroke: rgba(255, 255, 255, 0.07);
+  stroke-linecap: round;
+}
+
+.track-rpm {
+  stroke-width: 4px;
+  stroke-dasharray: 433; /* 75% của chu vi 578 */
+}
+
+.track-speed {
+  stroke-width: 5px;
+  stroke-dasharray: 377; /* 75% của chu vi 502 */
+}
+
+/* VẠCH TIẾN TRÌNH */
+.gauge-bar {
+  fill: none;
+  stroke-linecap: round;
+  transition: stroke-dashoffset 0.08s linear;
+}
+
+.bar-rpm {
+  stroke-width: 4px;
+  stroke-dasharray: 433;
+  stroke-dashoffset: 433; /* Mặc định 0 */
+}
+
+.bar-speed {
+  stroke-width: 5px;
+  stroke-dasharray: 377;
+  stroke-dashoffset: 377; /* Mặc định 0 */
+}
+
+/* NỘI DUNG TRUNG TÂM CỦA ĐỒNG HỒ */
+.gauge-center {
+  position: relative;
+  z-index: 10;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  gap: 2px;
+}
+
+/* HÀNG XI NHAN VÀ CẤP SỐ */
+.indicators-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: -2px;
+}
+
+.indicator-icon {
+  font-size: 13px;
+  color: rgba(255, 255, 255, 0.15);
+  transition: all 0.15s ease;
+}
+
+.indicator-icon.active {
+  color: var(--neon-green);
+  text-shadow: 0 0 10px var(--neon-green);
+  animation: blinkTurn 0.4s infinite alternate ease-in-out;
+}
+
+@keyframes blinkTurn {
+  from { opacity: 0.3; }
+  to { opacity: 1; }
+}
+
+.gear-badge {
+  width: 26px;
+  height: 26px;
+  background: rgba(56, 189, 248, 0.12);
+  border: 1px solid rgba(56, 189, 248, 0.35);
+  border-radius: 50%;
+  color: #fff;
+  font-family: var(--font-speed);
+  font-size: 14px;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0 8px rgba(56, 189, 248, 0.2);
+}
+
+.gear-badge.reverse {
+  background: rgba(239, 68, 68, 0.2);
+  border-color: rgba(239, 68, 68, 0.5);
+  color: #f87171;
+}
+
+.gear-badge.park {
+  background: rgba(245, 158, 11, 0.2);
+  border-color: rgba(245, 158, 11, 0.5);
+  color: #fbbf24;
+}
+
+/* HIỂN THỊ TỐC ĐỘ */
+.speed-readout {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  line-height: 1;
+}
+
+.speed-val {
+  font-family: var(--font-speed);
+  font-size: 42px;
+  font-weight: 800;
+  color: #fff;
+  letter-spacing: 1px;
+  text-shadow: 0 0 15px rgba(56, 189, 248, 0.4);
+}
+
+.speed-unit {
+  font-family: var(--font-speed);
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--neon-blue);
+  letter-spacing: 2px;
+  margin-top: -2px;
+  text-shadow: 0 0 8px rgba(56, 189, 248, 0.3);
+}
+
+/* THANH MỨC XĂNG */
+.fuel-row {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-top: 6px;
+}
+
+.fuel-icon {
+  width: 13px;
+  height: 13px;
+  color: var(--neon-yellow);
+}
+
+.fuel-bar-wrap {
+  width: 55px;
+  height: 4px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.fuel-bar-fill {
+  height: 100%;
+  background: linear-gradient(90deg, #10b981, #38bdf8);
+  border-radius: 4px;
+  transition: width 0.3s ease, background 0.3s ease;
+}
+
+.fuel-bar-fill.low {
+  background: #ef4444;
+}
+
+.fuel-text {
+  font-family: var(--font-speed);
+  font-size: 10px;
+  font-weight: 700;
+  color: rgba(255, 255, 255, 0.7);
+}
+
+/* HÀNG ĐÈN TRẠNG THÁI (CLUSTER) */
+.status-cluster {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 5px 12px;
+  background: rgba(11, 17, 32, 0.85);
+  border: 1px solid var(--border-color);
+  border-radius: 20px;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+}
+
+.status-icon {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgba(255, 255, 255, 0.15);
+  transition: all 0.2s ease;
+}
+
+.status-icon svg {
+  width: 14px;
+  height: 14px;
+}
+
+/* DÂY AN TOÀN */
+.icon-seatbelt.active {
+  color: var(--neon-green);
+  text-shadow: 0 0 8px var(--neon-green);
+}
+
+.icon-seatbelt.unbuckled {
+  color: var(--neon-red);
+  text-shadow: 0 0 8px var(--neon-red);
+  animation: seatbeltAlert 0.7s infinite alternate ease-in-out;
+}
+
+@keyframes seatbeltAlert {
+  from { opacity: 0.3; transform: scale(0.9); }
+  to { opacity: 1; transform: scale(1.1); }
+}
+
+/* ĐÈN XE */
+.icon-lights.low-beam {
+  color: var(--neon-green);
+  text-shadow: 0 0 8px var(--neon-green);
+}
+
+.icon-lights.high-beam {
+  color: #3b82f6;
+  text-shadow: 0 0 8px #3b82f6;
+}
+
+/* PHANH TAY */
+.handbrake-p {
+  font-family: var(--font-speed);
+  font-size: 11px;
+  font-weight: 700;
+}
+
+.icon-handbrake.active {
+  color: var(--neon-red);
+  text-shadow: 0 0 8px var(--neon-red);
+}
+
+/* ĐỘNG CƠ CHECK ENGINE */
+.icon-engine.warning {
+  color: var(--neon-yellow);
+  text-shadow: 0 0 8px var(--neon-yellow);
+}
+
+.icon-engine.danger {
+  color: var(--neon-red);
+  text-shadow: 0 0 8px var(--neon-red);
+  animation: engineBlink 0.5s infinite alternate ease-in-out;
+}
+
+@keyframes engineBlink {
+  from { opacity: 0.4; }
+  to { opacity: 1; }
+}
