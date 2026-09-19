@@ -9,6 +9,7 @@ files {
 
 this_is_a_map 'yes'
 
+--[[
 client_scripts {
 	-- '@es_extended/locale.lua',
 	'locales/fr.lua',
@@ -21,3 +22,4 @@ server_scripts {
 	-- '@es_extended/locale.lua',
 	'config.lua'
 }
+--]]

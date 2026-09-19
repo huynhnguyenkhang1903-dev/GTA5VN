@@ -12,6 +12,7 @@ data_file 'INTERIOR_PROXY_ORDER_FILE' 'interiorproxies.meta'
 
     
 
+--[[
 client_scripts {
 	-- '@es_extended/locale.lua',
 	'locales/fr.lua',
@@ -24,3 +25,4 @@ server_scripts {
 	-- '@es_extended/locale.lua',
 	'config.lua'
 }
+--]]

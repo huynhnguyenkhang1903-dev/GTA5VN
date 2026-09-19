@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gara Xe Cá Nhân Admin</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&family=Chakra+Petch:wght@500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div id="app" class="garage-wrapper" style="display: none;">
+    <!-- Nền mờ kính -->
+    <div class="garage-modal">
+      
+      <!-- HEADER -->
+      <header class="garage-header">
+        <div class="header-branding">
+          <div class="header-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M19 17h2c.6 0 1-.4 1-1v-3c0-.9-.7-1.7-1.5-1.9C18.7 10.6 16 10 16 10s-1.3-1.4-2.2-2.3c-.5-.4-1.1-.7-1.8-.7H5c-.6 0-1.1.4-1.4.9l-1.5 2.8C2.1 11 2 11.5 2 12v4c0 .6.4 1 1 1h2"/>
+              <circle cx="7" cy="17" r="2"/>
+              <path d="M9 17h6"/>
+              <circle cx="17" cy="17" r="2"/>
+            </svg>
+          </div>
+          <div>
+            <h1 class="header-title">GARA XE CÁ NHÂN</h1>
+            <p class="header-subtitle">Lấy xe nhanh • Lưu 100% bản độ • <span class="hotkey-badge">CTRL + Y</span></p>
+          </div>
+        </div>
+
+        <div class="header-controls">
+          <!-- Tìm kiếm -->
+          <div class="search-box">
+            <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <circle cx="11" cy="11" r="8"/>
+              <line x1="21" y1="21" x2="16.65" y2="16.65"/>
+            </svg>
+            <input type="text" id="searchInput" placeholder="Tìm xe..." autocomplete="off">
+            <button id="clearSearch" class="clear-btn" style="display: none;">✕</button>
+          </div>
+
+          <!-- Nút Cất xe đang ngồi -->
+          <button id="btnQuickStore" class="btn btn-quick-store" title="Cất chiếc xe bạn đang ngồi và lưu bản độ ngay lập tức">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/>
+              <polyline points="9 22 9 12 15 12 15 22"/>
+            </svg>
+            <span>Cất xe</span>
+          </button>
+
+          <!-- Nút Đóng -->
+          <button id="btnClose" class="btn-close" title="Đóng menu (ESC)">
+            ✕
+          </button>
+        </div>
+      </header>
+
+      <!-- THANH THỐNG KÊ & CHỈ DẪN -->
+      <div class="stats-bar">
+        <div class="stat-item">
+          <span class="stat-label">Tổng:</span>
+          <span id="totalCarsCount" class="stat-value">0</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-dot dot-spawned"></span>
+          <span class="stat-label">Ngoài phố:</span>
+          <span id="spawnedCarsCount" class="stat-value text-green">0</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-dot dot-stored"></span>
+          <span class="stat-label">Trong gara:</span>
+          <span id="storedCarsCount" class="stat-value text-blue">0</span>
+        </div>
+        <div class="help-hint">
+          💡 Gõ <code class="cmd-badge">/admincar [tên]</code> để lưu xe
+        </div>
+      </div>
+
+      <!-- KHU VỰC DANH SÁCH XE -->
+      <main class="garage-content">
+        <div id="carsGrid" class="cars-grid">
+          <!-- Các thẻ xe sẽ được JavaScript tạo tự động tại đây -->
+        </div>
+
+        <!-- Trạng thái trống (Chưa có xe) -->
+        <div id="emptyState" class="empty-state" style="display: none;">
+          <div class="empty-icon">🏎️</div>
+          <h2>GARA CỦA BẠN ĐANG TRỐNG</h2>
+          <p>Bạn chưa lưu chiếc xe nào vào danh sách cá nhân.</p>
+          <div class="empty-steps">
+            <div class="step-card">
+              <span class="step-num">1</span>
+              <span>Spawn một chiếc xe bạn thích (qua vMenu hoặc lệnh).</span>
+            </div>
+            <div class="step-card">
+              <span class="step-num">2</span>
+              <span>Độ xe theo ý thích (màu sơn, turbo, động cơ, bodykit...).</span>
+            </div>
+            <div class="step-card">
+              <span class="step-num">3</span>
+              <span>Ngồi trong xe và gõ lệnh: <br><strong class="highlight-code">/admincar [Tên Xe]</strong></span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Trạng thái không tìm thấy kết quả tìm kiếm -->
+        <div id="noSearchResult" class="empty-state" style="display: none;">
+          <div class="empty-icon">🔍</div>
+          <h2>KHÔNG TÌM THẤY XE</h2>
+          <p>Không có chiếc xe nào khớp với từ khóa tìm kiếm của bạn.</p>
+        </div>
+      </main>
+
+      <!-- FOOTER -->
+      <footer class="garage-footer">
+        <div class="footer-note">
+          <span class="glow-bullet">●</span> Tự động lưu 100% bản độ khi bấm <strong>Cất xe</strong>
+        </div>
+        <div class="footer-action">
+          <button id="btnFooterClose" class="btn btn-secondary">Đóng (ESC)</button>
+        </div>
+      </footer>
+
+    </div>
+  </div>
+
+  <!-- MODAL CHỈNH SỬA THÔNG TIN XE (TÊN & ẢNH) -->
+  <div id="editModal" class="modal-overlay" style="display: none;">
+    <div class="modal-box">
+      <div class="modal-header">
+        <h3>Chỉnh sửa thông tin xe</h3>
+        <button id="btnModalClose" class="btn-close-sm">✕</button>
+      </div>
+      <div class="modal-body">
+        <div class="form-group">
+          <label for="editCarName">Tên hiển thị của xe:</label>
+          <input type="text" id="editCarName" placeholder="Nhập tên gọi cho chiếc xe...">
+        </div>
+        <div class="form-group">
+          <label for="editCarImage">Link ảnh xe (tùy chọn):</label>
+          <input type="text" id="editCarImage" placeholder="https://i.imgur.com/... hoặc link ảnh bất kỳ">
+          <small class="form-hint">Nếu để trống, hệ thống sẽ tự động tìm ảnh GTA V theo mã model.</small>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button id="btnCancelEdit" class="btn btn-secondary">Hủy</button>
+        <button id="btnSaveEdit" class="btn btn-primary">Lưu thay đổi</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- TOAST NOTIFICATION CONTAINER -->
+  <div id="toastContainer" class="toast-container"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
